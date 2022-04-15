@@ -1,6 +1,6 @@
 # Bank-Note-Authenticator-with-Flask and Heroku
 
-In this project i have deployed a machine learning model which take into account variance, skewness, curtosis and entropy to authenticate and tell that the currency is fake or real using pickle and built a flask based website to give the result back to the user hosted on Heroku.
+In this project i have deployed a machine learning model which take into account variance, skewness, curtosis and entropy to authenticate and tell that the currency is fake or real using pickle and built a flask based website to give the result back to the user hosted on <a href="https://bank-note-authentification.herokuapp.com/">Heroku Platfrom.
 
 <h3>About The Dataset</h3>
 
